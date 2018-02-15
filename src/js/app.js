@@ -7,7 +7,7 @@ form.addEventListener('submit', function(event) {
 });
 
 
-function getInformation(){
+function getInformation() {
   const informationRequest = new XMLHttpRequest();
 
 }
